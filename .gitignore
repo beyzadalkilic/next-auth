@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -128,17 +129,23 @@ dist
 
 # yarn v3
 =======
+=======
+>>>>>>> dev/v1.0.0
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
 /.pnp
+<<<<<<< HEAD
 >>>>>>> a5f3d5e (chore: initial commit with Next.js setup)
+=======
+>>>>>>> dev/v1.0.0
 .pnp.*
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
+<<<<<<< HEAD
 <<<<<<< HEAD
 !.yarn/sdks
 !.yarn/versions
@@ -147,6 +154,8 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 =======
+=======
+>>>>>>> dev/v1.0.0
 !.yarn/versions
 
 # testing
@@ -178,4 +187,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 >>>>>>> a5f3d5e (chore: initial commit with Next.js setup)
+=======
+>>>>>>> dev/v1.0.0
